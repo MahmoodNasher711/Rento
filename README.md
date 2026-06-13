@@ -49,10 +49,10 @@
 
 ```mermaid
 graph TD
-    A[Presentation Layer] -->|Bloc/Cubit| B(Domain Layer)
+    A[Presentation Layer] -->|Bloc/Cubit| B[Domain Layer]
     B -->|Interfaces| C[Data Layer]
     C -->|Repositories| D[(Cloud Firestore)]
-    C -->|Models| B
+    C -.->|Models| B
 ```
 - **طبقة العرض (Presentation):** تحتوي على واجهات المستخدم (UI) المكتوبة بـ Flutter.
 - **طبقة النطاق (Domain):** تحتوي على منطق العمل (Business Logic) المدار باستخدام Cubits.
