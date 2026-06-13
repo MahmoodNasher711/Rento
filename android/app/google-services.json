@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "716909815718",
+    "project_id": "rento-2d69a",
+    "storage_bucket": "rento-2d69a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716909815718:android:aa2ef0ed3ce5c321d75167",
+        "android_client_info": {
+          "package_name": "com.mahmoodnasher.rento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716909815718-bhh3fqbeeln58otj4s9e7829mfs5la19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahmoodnasher.rento",
+            "certificate_hash": "9285ea51375a4816a956c750857a9c8b4b4f9e3f"
+          }
+        },
+        {
+          "client_id": "716909815718-sv3394refr5jll57luiftj0gnp5maobb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZxsO9sFI1o8BIkdlmzwjv8SEKkwVSbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716909815718-sv3394refr5jll57luiftj0gnp5maobb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
